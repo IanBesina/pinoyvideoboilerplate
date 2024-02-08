@@ -14,4 +14,6 @@ Set the desktop background to the PNG file porovided
 
 Set the taskbar to autohide
 
+Created by Ian Besina
+
 
